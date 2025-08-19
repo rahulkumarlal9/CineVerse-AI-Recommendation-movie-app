@@ -4,11 +4,6 @@ This is a fully functional, fullstack **Netflix Clone** built with the **MERN st
 
 > ✅ This project is complete — from frontend to backend to AI integration and deployment. It’s built to teach and showcase real-world skills.
 
-**📺 Watch the Full YouTube Tutorial Series**
-[https://youtu.be/Y5YVfD1dVkk?si=YeXh48ULSnwy69HN](https://youtu.be/Y5YVfD1dVkk?si=YeXh48ULSnwy69HN)
-
-**📆 Live Demo**: [https://aiflix-1.onrender.com/](https://aiflix-1.onrender.com/)
-
 ---
 
 ## 🚀 Features
@@ -60,7 +55,7 @@ This is a fully functional, fullstack **Netflix Clone** built with the **MERN st
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/ezeigboemmanuel/AIFlix.git
+git clone https://github.com/rahulkumarlal9/CineVerse-AI-Recommendation-movie-app.git
 cd AIFlix
 ```
 
@@ -116,4 +111,3 @@ If you found this helpful, please:
 * ⭐️ Star this repo
 * 🛠️ Fork it
 * 📣 Share with others
-* 🧠 Subscribe on [YouTube](https://www.youtube.com/@emmanuelezeigbo659) for more in-depth dev tutorials
