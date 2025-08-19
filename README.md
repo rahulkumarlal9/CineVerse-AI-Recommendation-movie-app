@@ -56,7 +56,7 @@ This is a fully functional, fullstack **Netflix Clone** built with the **MERN st
 
 ```bash
 git clone https://github.com/rahulkumarlal9/CineVerse-AI-Recommendation-movie-app.git
-cd AIFlix
+cd CineVerse-AI-Recommendation-movie-app
 ```
 
 2. **Install Frontend Dependencies**
